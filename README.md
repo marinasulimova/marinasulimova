@@ -1,18 +1,19 @@
 ## Hello everyone 👋
 I'm a Data analyst with 3 years’ experience who taught management to make data-driven decisions through trusted data and clear analysis.  
 ## Here I post my analitical projects:
-[Portfolio] (https://github.com/marinasulimova/Data-analyst)  
-📫 How to reach me:  
-Telegram: @marina_25_rus  
-E-mail: masulimova@gmail.com  
-Linkedin: www.linkedin.com/in/marinasulimova  
+[🔭 Portfolio] (https://github.com/marinasulimova/Data-analyst)  
+
+## 📫 How to reach me:  
+*Telegram*: @marina_25_rus  
+*E-mail*: masulimova@gmail.com  
+*Linkedin*: www.linkedin.com/in/marinasulimova  
 
 <!--
 **marinasulimova/marinasulimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
