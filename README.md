@@ -1,9 +1,9 @@
 ## Hi there 👋
-I'm a Data analyst with 3 years’ experience who taught management to make data-driven decisions through trusted data and clear analysis.
-📫 How to reach me:
-Telegram: @marina_25_rus
-E-mail: masulimova@gmail.com
-Linkedin: www.linkedin.com/in/marinasulimova
+I'm a Data analyst with 3 years’ experience who taught management to make data-driven decisions through trusted data and clear analysis.  
+📫 How to reach me:  
+Telegram: @marina_25_rus  
+E-mail: masulimova@gmail.com  
+Linkedin: www.linkedin.com/in/marinasulimova  
 
 <!--
 **marinasulimova/marinasulimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
