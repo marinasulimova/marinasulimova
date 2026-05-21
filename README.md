@@ -1,5 +1,6 @@
 ## Hello everyone 👋
 I'm a Data analyst with 3 years’ experience who taught management to make data-driven decisions through trusted data and clear analysis.  
+Specializing in the end-to-end data analysis pipeline, including data collection, wrangling, EDA, modeling, visualization and translating technical results into business insights.
 ## Here I post my analitical projects:
 📊 [Portfolio](https://github.com/marinasulimova/Data-analyst)  
 
